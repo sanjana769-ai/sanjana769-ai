@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sanjana 👋
 
-<!--
-**sanjana769-ai/sanjana769-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Python
+- Java
+- Data Structures & Algorithms
+- AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- TutorAI
+- Student Performance Analysis
+- ML Student Score Predictor
+- Telegram AI Bot
+
+🌱 Currently Exploring
+- Agentic AI
+- LLM Applications
+- RAG Systems
+
+📫 Connect With Me
+- LinkedIn: linkedin.com/in/sanjanabadugu769
